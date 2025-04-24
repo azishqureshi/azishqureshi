@@ -33,7 +33,7 @@
 - 🖼️ **OpenCV** for real-time hand tracking
 - 🧠 **TensorFlow** and **Keras** to train and run models
 - 🔡 Converts gestures to **text**
-- 🔊 Translates that text into **audio** with TTS
+- 🔊 Translates that text into **audio** using TTS
 
 ---
 
