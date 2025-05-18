@@ -21,18 +21,28 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-### 📌 Project Spotlight: DePivot
+### 📌 Project Spotlight: DePivot & Dribbl
+
+#### **DePivot**
 
 > A sign language recognition system using computer vision and deep learning.
 
-<p align="center">
-</p>
+<p align="center"></p>
 
-**DePivot** uses:
-- 🖼️ **OpenCV** for real-time hand tracking
-- 🧠 **TensorFlow** and **Keras** to train and run models
-- 🔡 Converts gestures to **text**
-- 🔊 Translates that text into **audio** using TTS
+**DePivot** uses:  
+- 🖼️ **OpenCV** for real-time hand tracking  
+- 🧠 **TensorFlow** and **Keras** to train and run models  
+- 🔡 Converts gestures to **text**  
+- 🔊 Translates that text into **audio** using TTS  
+
+#### **Dribbl**
+
+> Canada’s first ever soccer social media platform.
+
+**Dribbl** development highlights:  
+- ⚛️ Building the **front-end** with **React.js**  
+- 🌀 Working on the **back-end** using **Node.js**, **Express**, and **MongoDB** (the MERN stack)  
+- 🎯 Aiming for a smooth, responsive user experience and robust data management  
 
 ---
 
