@@ -21,15 +21,15 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-### 📌 Project Spotlight: DePivot & Dribbl
+### 📌 Project Spotlight: Signiqo AI & Dribbl
 
-#### **DePivot**
+#### **Signiqo AI**
 
 > A sign language recognition system using computer vision and deep learning.
 
 <p align="center"></p>
 
-**DePivot** uses:  
+**Signiqo AI** uses:  
 - 🖼️ **OpenCV** for real-time hand tracking  
 - 🧠 **TensorFlow** and **Keras** to train and run models  
 - 🔡 Converts gestures to **text**  
