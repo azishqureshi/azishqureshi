@@ -37,7 +37,7 @@
 
 #### **Dribbl**
 
-> Canada’s first ever soccer social media platform.
+> The first ever AI powered soccer networking platform
 
 **Dribbl** development highlights:  
 - ⚛️ Building the **front-end** with **React.js**  
