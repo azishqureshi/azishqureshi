@@ -3,15 +3,15 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 💻 First-year Computer Science student
-- 🌱 Currently learning more about AI, machine learning, and full stack development
-- 🧩 I’m always looking for opportunities to learn, collaborate, and build meaningful stuff
+- First-year Computer Science student
+- Currently learning more about AI, machine learning, and full stack development
+- I’m always looking for opportunities to learn, collaborate, and build meaningful stuff
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,23 +30,23 @@
 <p align="center"></p>
 
 **Signiqo AI** uses:  
-- 🖼️ **OpenCV** for real-time hand tracking  
-- 🧠 **TensorFlow** and **Keras** to train and run models  
-- 🔡 Converts gestures to **text**  
-- 🔊 Translates that text into **audio** using TTS  
+- **OpenCV** for real-time hand tracking  
+- **TensorFlow** and **Keras** to train and run models  
+- Converts gestures to **text**  
+- Translates that text into **audio** using TTS  
 
 #### **Dribbl**
 
 > The first ever AI powered soccer networking platform
 
 **Dribbl** development highlights:  
-- ⚛️ Building the **front-end** with **React.js**  
-- 🌀 Working on the **back-end** using **Node.js**, **Express**, and **MongoDB** (the MERN stack)  
-- 🎯 Aiming for a smooth, responsive user experience and robust data management  
+- Building the **front-end** with **React.js**  
+- Working on the **back-end** using **Node.js**, **Express**, and **MongoDB** (the MERN stack)  
+- Aiming for a smooth, responsive user experience and robust data management  
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/azishq/" target="_blank">
