@@ -21,28 +21,18 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-### Project Spotlight: Signiqo AI & Dribbl
+### Project Spotlight: Mindra
 
-#### **Signiqo AI**
+#### **Mindra**
 
-> A sign language recognition system using computer vision and deep learning.
+> A short-form content blocking app designed to reduce distraction and promote intentional technology use.
 
 <p align="center"></p>
 
-**Signiqo AI** uses:  
-- **OpenCV** for real-time hand tracking  
-- **TensorFlow** and **Keras** to train and run models  
-- Converts gestures to **text**  
-- Translates that text into **audio** using TTS  
-
-#### **Dribbl**
-
-> The first ever AI powered soccer networking platform
-
-**Dribbl** development highlights:  
-- Building the **front-end** with **React.js**  
-- Working on the **back-end** using **Node.js**, **Express**, and **MongoDB** (the MERN stack)  
-- Aiming for a smooth, responsive user experience and robust data management  
+**Mindra** development goals:  
+- Content-specific filtering: Implementing URL and route detection to block access to short-form feeds, while allowing access to other features
+- Focus session enforcement: Designing timed focus states that prevent bypassing and reinforce commitment
+- Minimal UI/UX: Building a clean and frictionless interface that prioritizes clarity
 
 ---
 
