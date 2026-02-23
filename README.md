@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Azish Qureshi</h1>
+<h1 align="center">Hi, I'm Azish Qureshi</h1>
 <h3 align="center">A passionate Computer Science student exploring the world of programming!</h3>
 
 ---
 
 ### About Me
 
-- First-year Computer Science student
-- Currently learning more about AI, machine learning, and full stack development
-- I’m always looking for opportunities to learn, collaborate, and build meaningful stuff
+- Second year Computer Science student
+- Always looking for opportunities to learn, collaborate, and build meaningful stuff
 
 ---
 
