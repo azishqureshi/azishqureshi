@@ -5,7 +5,7 @@
 
 ### About Me
 
-- Second year Computer Science student
+- Third year Computer Science student
 - Always looking for opportunities to learn, collaborate, and build meaningful stuff
 
 ---
