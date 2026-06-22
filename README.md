@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Azish Qureshi</h1>
-<h3 align="center">A passionate Computer Science student exploring the world of programming!</h3>
+<h3 align="center">A passionate computer science student exploring the world of programming!</h3>
 
 ---
 
 ### About Me
 
-- Third year Computer Science student
+- Third year computer science student
 - Always looking for opportunities to learn, collaborate, and build meaningful stuff
 
 ---
