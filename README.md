@@ -20,9 +20,9 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-### Project Spotlight: Mindra
+### Project Spotlight: Signiq
 
-#### **Signiq AI**
+#### **Signiq**
 
 > An AI powered ASL fingerspelling learning app designed to help users practice alphabet signs and word spelling through real-time webcam feedback.
 
