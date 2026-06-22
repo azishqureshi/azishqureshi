@@ -22,16 +22,16 @@
 
 ### Project Spotlight: Mindra
 
-#### **Mindra**
+#### **Signiq AI**
 
-> A short-form content blocking app designed to reduce distraction and promote intentional technology use.
+> An AI powered ASL fingerspelling learning app designed to help users practice alphabet signs and word spelling through real-time webcam feedback.
 
 <p align="center"></p>
 
-**Mindra** development goals:  
-- Content-specific filtering: Implementing URL and route detection to block access to short-form feeds, while allowing access to other features
-- Focus session enforcement: Designing timed focus states that prevent bypassing and reinforce commitment
-- Minimal UI/UX: Building a clean and frictionless interface that prioritizes clarity
+**Signiq** development goals:  
+- Real-time sign recognition: Using MediaPipe hand landmarks and machine learning models to detect ASL fingerspelling signs from webcam input (in-house model)
+- Guided practice modes: Building alphabet and word spelling modes with live feedback, progress tracking, and review-focused results
+- Minimal learning-focused UI/UX: Creating a clean and approachable interface that prioritizes practice, clarity, and user improvement
 
 ---
 
